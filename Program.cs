@@ -68,8 +68,8 @@ namespace NumberGuesser
                             continue;
                         }
                     }
-                    // *** I DO NOT KNOW WHY IT IS UNREACHABLE ***
-                    //// Prompt user to play again 
+                  
+                    // Prompt user to play again 
                     Console.WriteLine("Wanna play again? [Y or N] " + "This time I won't be easy on you.");
                     continue;
                 }
